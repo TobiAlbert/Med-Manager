@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Med Manager</string>
+
+
+    <!-- Login Activity -->
+    <string name="username_hint">username</string>
+    <string name="password_hint">password</string>
+    <string name="login_button_text">login</string>
+    <string name="sign_up_text">New Here? <p style="text-color:red">Sign Up.</p></string>
+    <string name="login_toolbar_text">Login</string>
+    <string name="google_button_text">Sign in with Google</string>
+
+    <!-- Sign Up Activity-->
+    <string name="sign_up_toolbar_text">Sign Up</string>'
+    <string name="confirm_password_text">confirm Password</string>
+    <string name="sign_up_button_text">sign up</string>
+    <string name="sign_in_text">Have an account? <p style="text-color:red"> Sign in</p></string>
+
 </resources>
