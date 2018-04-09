@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    >
+
+    <item
+        android:id="@+id/menu_search_id"
+        android:title=""
+        android:icon="@drawable/ic_search"
+        android:contentDescription=""
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/menu_sort_id"
+        android:title=""
+        android:icon="@drawable/ic_sort"
+        android:contentDescription=""
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom"/>
+
+</menu>
